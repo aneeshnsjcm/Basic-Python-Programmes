@@ -1,7 +1,7 @@
 
 #patternsusingWhile
 x=input("Number of steps needed: ")
-i=1
+i=10
 while i<=int(x):
       j=1
       while j<=i:
